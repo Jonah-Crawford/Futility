@@ -2,6 +2,8 @@
 
 **Theoretically universal. Practically regrettable.**
 
+                    "Completely unusable (0/10)." - Google Gemini
+
 Futility is an esoteric programming language designed to be as impractical as possible without sacrificing Turing completeness. Unlike languages that are merely difficult to write, Futility is designed to be difficult to *compile*, even when the compiler knows exactly what it is doing.
 
 Every instruction requires a context-dependent SHA-512 collision certificate and an exponentially expanding payload of chained SHA-512 hashes. Arithmetic corrupts neighbouring memory cells, control flow depends on prime numbers and perfect squares, and output is subject to unsolicited bitwise manipulation.
