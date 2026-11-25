@@ -2,7 +2,7 @@
 
 **Theoretically universal. Practically regrettable.**
 
-                    "Completely unusable (0/10)." - Google Gemini
+`"Completely unusable (0/10)." - Google Gemini`
 
 Futility is an esoteric programming language designed to be as impractical as possible without sacrificing Turing completeness. Unlike languages that are merely difficult to write, Futility is designed to be difficult to *compile*, even when the compiler knows exactly what it is doing.
 
